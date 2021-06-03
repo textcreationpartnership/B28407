@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Proceedings of the Irish Parliament in Dublin With a later account of the happy success of the Protestants of London-Derry, against the French and Irish-Papists in Ireland. Licensed according to order, May the 24.</title>
+            <title>Proceedings. 1689.</title>
+            <author>Ireland. Parliament.</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28407</idno><idno type="EEBO-CITATION">99829346</idno>
+  <idno type="VID">207055</idno>
+  <idno type="EEBO-PROQUEST">2248500736</idno>
+  
+            <idno type="STC">Wing P3588A</idno>
+            <idno type="PROQUEST">99829346</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99829346e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28407)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 207055)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1978:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Proceedings of the Irish Parliament in Dublin With a later account of the happy success of the Protestants of London-Derry, against the French and Irish-Papists in Ireland. Licensed according to order, May the 24.</title>
+                  <title>Proceedings. 1689.</title>
+                  <author>Ireland. Parliament.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>printed by W. Downing,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Ireland --  History --  1660-1690 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:207055:1"/>
+            <head>PROCEEDINGS OF THE IRISH PARLIAMENT in DUBLIN.</head>
+            <head type="sub">With a later Account of the happy Success of the <hi>Protestants</hi> of <hi>London-Derry,</hi> against the <hi>French</hi> and <hi>Irish-Papists</hi> in <hi>Ireland.</hi>
+            </head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license" subtype="order_to_print">
+                        <p>Licensed according to Order, <hi>May</hi> the 24.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p>THere being so Few, and those so very Difficult Opportunities of hearing from <hi>Ireland,</hi> especially from <hi>Dublin;</hi> it cannot be expected but those Relations we receive here for News, should be there almost Antiquated, and by the constant succession of fresh Accidents, quite out of Date, and though every now and then we have one or other distressed Fugitive put in here, yet their long ab<g ref="char:EOLhyphen"/>sconding in order to get off, has render'd most of them incapable of giving any great Account of the <hi>French</hi> and <hi>Irish</hi> Transactions there: The last considerable Advice we have, is concerning their <hi>Parliament,</hi> which by the <hi>French Minister's</hi> Imperious In<g ref="char:EOLhyphen"/>fluence is so heated and disturbed, that they already begin to make Parties, and enter in<g ref="char:EOLhyphen"/>to Cabals: Some are for quite abolishing and rescinding the <hi>Old Act of Settlement:</hi> Others are for a New One, and confirming the Forfeitures of the <hi>English Rebels</hi> (as they call them:) Some are for the total Extirpation of the remaining <hi>Protestants:</hi> Others for Confiscating and Depriving them of what little they have left. But in fine, its said, they have all agreed in the Banishment of them from the City, by which it is plain, that they Design nothing less than their Total Destruction: For besides the Miseries of Want, which they must certainly undergo, they are hereby unavoidably expos'd to the cruel Bar<g ref="char:EOLhyphen"/>barities of their <hi>Rabble-Army,</hi> who lye and take all Places for Twenty Miles about <hi>Dublin.</hi>
+            </p>
+            <p>As for that part of it which Besieges <hi>Derry,</hi> they begin to gnaw their Fingers with the Apprehension of the unexpected Dangers and Difficulties they have met with before it; for as that Sally wherein <hi>Maman</hi> the <hi>French General,</hi> with several other Persons of great Note among them, besides many Hundreds of Souldiers were kill'd, they have since by continual Skirmishes and Sallies, so disheartned them, that the <hi>Irish</hi> do many of them daily desert, and the <hi>French</hi> declare they do not like this way of Besieging Towns: As the Assailants are dejected, so the Joy, Courage, and Bravery of the Defendants is unspeakable, their Reverend Champion and Leader, both by Precept and Example, encou<g ref="char:EOLhyphen"/>raging them, and like another <hi>Moses,</hi> leading them forth to fight <hi>the Lord's Battels,</hi> and like him, <hi>always returning with Success;</hi> the People and Souldiers seldom going to Meat till they have whetted their Appetites on their Enemies. They say, That in one late Sally the Lord <hi>German</hi>'s Son was killed, a zealous <hi>Papist,</hi> and violent Prosecutor of the <hi>Pro<g ref="char:EOLhyphen"/>testants;</hi> the <hi>English</hi> in the Town are so used to Sally out and Beat them, that they now make it their Sport, and have made the Enemy so to contract their Camp, and remove further their Trenches, that they seem to have only the Name of a Siege.</p>
+            <p>The late King is mighty Apprehensive of these Proceedings, and sends them all the Offers imaginable, which they bravely refuse to accept, returning their final Resolutions, not only to Defend the Place, but upon the first Arrival of their daily expected Succours, to take the Field against the besieging Army: And we are since credibly Informed, that the <hi>Protestants</hi> lately made a Vigorous and almost general Sally, wherein they sail'd little of making an entire Victory; That they had slain a great number of their Men, and among the rest, several of eminent Note; that two or three of the greatest <hi>French Officers</hi> sell in this Encounter, beside some dead of their Wounds since the first great Sally; and that they had taken a very considerable Booty of Horses, Arms, Ammunition, and Provi<g ref="char:EOLhyphen"/>sion. Major-General <hi>Kirk</hi> Sail'd from <hi>Liverpool</hi> with three Regiments the latter end of last Week, and it's said, is certainly Arriv'd, and that the Enemy thereupon resolv'd to raise their Siege, quite despairing of doing any good; the other Regiments design'd for that Service, have positive Orders to Sail with expedition, so that in a little time we doubt not to be able to take the Field, and force those Rebellious Subjects to their just Obedience.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>W. Downing.</hi> 1689.</p>
+            <pb facs="tcp:207055:2"/>
+         </div>
+      </back>
+   </text>
+</TEI>
